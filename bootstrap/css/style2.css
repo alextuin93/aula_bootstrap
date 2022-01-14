@@ -1,0 +1,28 @@
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
+
+  .container {
+      max-width: 100%;
+  }
+
+
+.row {
+    margin-top: none;
+}
+
+#marketing {
+    background-color: rgb(71, 73, 73);
+    height: 600px;
+}
+
+.col-lg-4 {
+    margin-top: 120px;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+}
